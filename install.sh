@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO="riba2534/feishu-cli"
+REPO="whatmele/feishu-cli"
 BINARY_NAME="feishu-cli"
 DEFAULT_INSTALL_DIR="/usr/local/bin"
 tmpdir=""
